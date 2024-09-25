@@ -1,0 +1,16 @@
+{
+  "name": "node-workshop-3",
+  "version": "0.1.0",
+  "description": "A sample Node.js app in Render",
+  "engines": {
+    "node": "12.x"
+  },
+  "main": "movies.js",
+  "scripts": {
+    "start": "node movies.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
